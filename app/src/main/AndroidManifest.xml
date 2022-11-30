@@ -13,13 +13,6 @@
         android:theme="@style/Theme.Fundamentals_shoplist_22Challenge"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity2"
-            android:exported="false">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".SecondActivity"
             android:exported="false">
             <meta-data
